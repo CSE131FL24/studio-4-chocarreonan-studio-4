@@ -12,7 +12,7 @@ import support.cse131.DialogBoxes;
 public class NorwayMotherOfAllFlags {
 	private static void mother() {
 		StdDraw.clear();
-		StdDraw.setPenColor(255, 0, 0);
+		StdDraw.setPenColor(40, 0, 0);
 		StdDraw.filledRectangle(3, 3, 3, 3);
 		StdDraw.filledRectangle(3, 13, 3, 3);
 		StdDraw.filledRectangle(16, 3, 6, 3);
